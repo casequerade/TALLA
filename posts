@@ -1,1 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Post 1 - @talla</title>
+  <link rel="stylesheet" href="../style.css" />
+</head>
+<body>
+  <a href="../index.html">← Back to feed</a>
+  <img src="../images/post1.jpg" style="width:100%;"/>
+  <p style="padding: 10px;">Caption for post 1. Lorem ipsum dolor sit amet.</p>
+</body>
+</html>
 
